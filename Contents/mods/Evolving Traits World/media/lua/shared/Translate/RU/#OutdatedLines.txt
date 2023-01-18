@@ -1,0 +1,8 @@
+New/changed lines since v.2.1.2
+Translation was made for version 2.1.7. 
+
+Moodles_EN.txt
+
+Sandbox_EN.txt
+
+UI_EN.txt
